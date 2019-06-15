@@ -1,2 +1,2 @@
 # HelloWorld
-An all time classic program
+An all time classic program in java
